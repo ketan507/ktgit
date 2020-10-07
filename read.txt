@@ -1,1 +1,2 @@
 my 1st line before feature1
+only in feature1
